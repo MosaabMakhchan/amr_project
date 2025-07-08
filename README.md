@@ -9,3 +9,4 @@ The aim of this project is to develop an autonomous navigation mobile robot (AMR
 <!-- ![Alt text](result_images/SLAM_result.png) -->
 <img src="result_images/SLAM_result.png" alt="Alt text" width="400">
 <img src="result_images/map_odometry_errors.png" alt="Alt text" width="400">
+<img src="result_images/Odometry motion model visualisation in rviz2.png" alt="Alt text" width="400">
