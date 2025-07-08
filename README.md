@@ -6,5 +6,5 @@ The aim of this project is to develop an autonomous navigation mobile robot (AMR
     and finally Simultaneous Localization and Mapping -SLAM-.
 
 ### Results Summary 
-![Alt text](result_images/SLAM_result.png)
-<img src="result_images/SLAM_result.png" alt="Alt text" width="100">
+<!-- ![Alt text](result_images/SLAM_result.png) -->
+<img src="result_images/SLAM_result.png" alt="Alt text" width="300">
